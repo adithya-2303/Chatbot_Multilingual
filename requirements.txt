@@ -1,0 +1,12 @@
+openai
+transformers
+torch
+langdetect
+flask
+requests
+nltk
+scikit-learn
+gradio
+google-generativeai
+speechrecognition
+deep-translator
