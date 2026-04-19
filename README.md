@@ -8,7 +8,6 @@
 - Voice input using speech recognition
 - Real-time language translation for both input and output
 - Clean and user-friendly Gradio interface
-- Powered by Google Gemini API
 
 ---
 
@@ -27,8 +26,8 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Malhaar4905/chaturchat.git
-cd chaturchat
+git clone https://github.com/adithya-2303/Chatbot_Multilingual
+
 ```
 
 2. **Install required libraries:**
@@ -56,15 +55,4 @@ python chaturchat.py
 - Click "Send" to get the AI response.
 - Clear the inputs anytime using the "Clear" button.
 
----
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgments
-
-- Powered by Google Gemini
-- Inspired by India's linguistic diversity
