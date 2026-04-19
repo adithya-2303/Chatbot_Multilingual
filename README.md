@@ -1,8 +1,4 @@
-# ChaturChat
 
-## 🤖 About
-
-ChaturChat is an AI-powered chatbot that supports real-time conversations in multiple Indian languages using Google Gemini, speech recognition, and translation services. It allows natural text and voice communication, making AI interactions more accessible and inclusive.
 
 ---
 
